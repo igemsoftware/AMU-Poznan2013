@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+*~
+.DS_Store
+shmir_api/settings.py
+shmir_api/mfold/mfold_files/
+shmir_designer/mfold_files/
